@@ -1,0 +1,19 @@
+{
+    "name": "zx529915211/project-demo",
+    "description": "A project demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zx529915211\\ProjectDemo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "guzhifu",
+            "email": "guzf@zhimadi.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
